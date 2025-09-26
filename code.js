@@ -10,6 +10,8 @@ async function run() {
     "Logo Slider",
     "Call to Action",
     "Footer",
+    "Projects",
+    "News",
   ];
 
   const nodes = figma.root.findAll(
